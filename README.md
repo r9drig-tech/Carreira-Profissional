@@ -3,6 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Analista+de+Power+BI+%26+BI;Engenharia+de+Dados+%26+IA+em+formação;+15%2B+anos+de+experiência+analítica;Python+%7C+DAX+%7C+SQL+%7C+Databricks;Transformando+dados+em+decisões+💡)](https://github.com/r9drig-tech)
 
 ---
+Sou um profissional com Deficiência Auditiva com mais de 15 anos de 
+experiência nas áreas administrativa e analítica, especializado em Análise de 
+Dados, Power BI e Gestão de Processos.
+
+---
+
 🔇 Profissional com **Deficiência Auditiva** (CID H90.3) — comunicação por texto/WhatsApp  
 📍 Brasília – DF | Disponível: **Remoto / Híbrido**
 
@@ -10,7 +16,6 @@
 
 ## 🚀 Sobre mim
 
-📊 **Analista de Dados** com mais de **15 anos de experiência** em Análise, Power BI e Gestão de Processos  
 🧠 Em transição para **Engenheiro de Dados & IA**, unindo visão analítica com stack moderna    
 🎓 Pós-graduando em **Engenharia de Dados & Inteligência Artificial** (Anhanguera, prev. 2027)  
 🛠️ Formação Técnica em **Data Analytics, Power BI & Inteligência Artificial** (Xperiun)  
