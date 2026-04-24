@@ -8,7 +8,7 @@
 
 ---
 
-Me chamo Rodrigo Gonçalves Salgado, Brasiliense, um profissional com Deficiência Auditiva com mais de 15 anos de 
+Me chamo Rodrigo Gonçalves Salgado, Brasiliense, Profissional com Deficiência Auditiva com mais de 15 anos de 
 experiência nas áreas administrativa e analítica, especializado em Análise de 
 Dados, Power BI e Gestão de Processos.
 
@@ -35,11 +35,11 @@ Dados, Power BI e Gestão de Processos.
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)🤖
        
 
-| 📊 BI & Visualização | 🐍 Dev & Automação | 🗄️ Dados & Cloud |
-|---|---|---|
-| Power BI (DAX + Power Query) | Python (Pandas, automação) | Databricks Lakehouse |
-| Figma (UX/UI de dashboards) | VBA  | SQL  |
-| ETL & Modelagem de Dados | Git & GitHub | Big Data & Analytics |
+| 📊 BI & Visualização | 🐍 Dev & Automação | 🗄️ Dados & Cloud | 🤖 Inteligência Artificial |
+|---|---|---|---|
+| Power BI (DAX + Power Query) | Python (Pandas, automação) | Databricks Lakehouse | IA Generativa (Prompts & LLMs) |
+| Figma (UX/UI de dashboards) | VBA  | SQL  | Análise Preditiva |
+| ETL & Modelagem de Dados | Git & GitHub | Big Data & Analytics | Machine Learning em BI |
 
 ---
 
@@ -76,8 +76,8 @@ Dados, Power BI e Gestão de Processos.
 🎓 Graduado em **Gestão de Processos Gerenciais** (UDF) 
 
 ## 🏅 Certificações   
-**Databricks Lakehouse Fundamentals**, 
-**Big Data & Analytics** e **Business Intelligence** (FIAP)       
+**Lakehouse Fundamentals** (Databricks)          
+**Big Data & Analytics** e **Business Intelligence** (FIAP)             
 **Bootcamp Gen IA & Dados** (Bradesco & DIO)   
 
 ---
