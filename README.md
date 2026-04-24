@@ -67,11 +67,15 @@
 
 ### 📜 Certificado em Destaque
 
-> 🏆 **Formação em Análise de Dados** — Xperiun Educação | 150h | Reconhecida pelo MEC | Certified Data & Analytics Specialist
+> 🏆 **Formação em Análise de Dados** — Xperiun Educação | 150h | Reconhecida pelo MEC 
 
-![Formação em Análise de Dados - Xperiun](formacao_analise_dados_xperiun.jpg.jpg)
+![Formação em Análise de Dados - Xperiun](formacao_analise_dados_xperiun.jpg)
 
-> 🏆 **Graduçao ** — Xperiun Educação | 150h | Reconhecida pelo MEC | Certified Data & Analytics Specialist
+
+
+> 🏆 **Tecnólogo em Processos Gerenciais** — Universidade Cruzeiro do Sul | 2020
+
+![Diploma de graduação](https://github.com/r9drig-tech/Carreira-Profissional/blob/main/Diploma%20de%20gradua%C3%A7%C3%A3o.png?raw=true)
 
 ---
 
