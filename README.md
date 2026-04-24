@@ -1,7 +1,7 @@
 ## 🖥️ Rodrigo Salgado
 ---
 
-**``Analista de Power BI``**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Analista+de+Power+BI)](https://github.com/r9drig-tech)
 
 🧠 Em transição para **Engenheiro de Dados & IA**: Databricks, Python, Big Data         
 🔇 PcD Auditivo (CID H90.3) | Remoto/Híbrido | Brasília-DF
@@ -14,22 +14,11 @@ Dados, Power BI e Gestão de Processos.
 
 ---
 
-## 🚀 Pós-Graduação & Especialização       
-🎓 Pós-graduando em **Engenharia de Dados & Inteligência Artificial** (Anhanguera, prev. 2027)  
-🛠️ Formação Técnica em **Data Analytics, Power BI & Inteligência Artificial** (Xperiun)  
-🎓 Graduado em **Gestão de Processos Gerenciais** (UDF) 
+## 🛠️ Ferramentas
 
-## 🏅Certificações      
-**Databricks Lakehouse Fundamentals**, 
-**Big Data & Analytics** e **Business Intelligence** (FIAP)  
+[![Skills](https://skillicons.dev/icons?i=python,selenium,git,github,figma,vscode,azure,visualstudio)](https://skillicons.dev)
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-[![Skills](https://skillicons.dev/icons?i=python,git,github,figma,vscode,azure)](https://skillicons.dev)
-
-## 🛠️ Tecnologias & Habilidades
+## 🧑🏽‍💻 Competência Técnicas
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ⭐⭐⭐⭐⭐    
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  ⭐⭐⭐⭐    
@@ -70,16 +59,28 @@ Dados, Power BI e Gestão de Processos.
 
 ---
 
-## 🏅 Certificações
+## 📊 Estatísticas do GitHub
 
-| Certificação | Instituição | Ano |
-|---|---|---|
-| Bootcamp Gen IA & Dados | Bradesco & DIO | 2026
-| Databricks Lakehouse Fundamentals | Databricks | 2026 |
-| Fundamentos de Engenharia de Dados | Data Science Academy | 2026 |
-| Data Analytics, Power BI & IA | Xperiun | 2025 |
-| Big Data & Analytics | FIAP | 2025 |
-| Business Intelligence | FIAP | 2025 |
+<div align="center">
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=r9drig-tech&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r9drig-tech&theme=tokyonight)
+
+</div>
+       
+---
+
+## 🚀 Pós-Graduação & Especialização       
+🎓 Pós-graduando em **Engenharia de Dados & Inteligência Artificial** (Anhanguera, prev. 2027)  
+🛠️ Formação Técnica em **Data Analytics, Power BI & Inteligência Artificial** (Xperiun)  
+🎓 Graduado em **Gestão de Processos Gerenciais** (UDF) 
+
+## 🏅 Certificações   
+**Databricks Lakehouse Fundamentals**, 
+**Big Data & Analytics** e **Business Intelligence** (FIAP)       
+**Bootcamp Gen IA & Dados** (Bradesco & DIO)   
+
+---
 
 ### 📜 Certificado em Destaque
 
@@ -100,6 +101,12 @@ Dados, Power BI e Gestão de Processos.
 
 ![Diploma de graduação](https://github.com/r9drig-tech/Carreira-Profissional/blob/main/Diploma%20de%20gradua%C3%A7%C3%A3o.png?raw=true)
 
+![Gestão e Planejamento Estratégico](https://img.shields.io/badge/✅%20Gestão%20%26%20Planejamento%20Estratégico-005A9C?style=for-the-badge)
+![Processos Financeiros e Contábeis](https://img.shields.io/badge/✅%20Processos%20Financeiros%20%26%20Contábeis-005A9C?style=for-the-badge)
+![Gestão de Operações e Logística](https://img.shields.io/badge/✅%20Gestão%20de%20Operações%20%26%20Logística-005A9C?style=for-the-badge)
+![Marketing e Relações com o Mercado](https://img.shields.io/badge/✅%20Marketing%20%26%20Relações%20com%20Mercado-005A9C?style=for-the-badge)
+![Gestão de Pessoas e Liderança](https://img.shields.io/badge/✅%20Gestão%20de%20Pessoas%20%26%20Liderança-005A9C?style=for-the-badge)
+
 ---
 
 ## 💡 Diferenciais
@@ -107,18 +114,6 @@ Dados, Power BI e Gestão de Processos.
 ✨ **15+ anos** combinando dados, processos e resultado de negócio  
 ✨ Domínio de **Power BI** com DAX avançado e Power Query  
 ✨ Visão de **UX/UI** aplicada a dashboards — dado bonito e funcional  
-✨ Transição sólida para **Engenharia de Dados**: Databricks, Python, Big Data  
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=r9drig-tech&theme=tokyonight)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r9drig-tech&theme=tokyonight)
-
-</div>
 
 ---
 
