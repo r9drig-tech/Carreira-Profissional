@@ -1,24 +1,31 @@
-<img src = "banner.gif" width = "325px" align = "right">
 
-## 🖥️ Rodrigo Salgado
+<h1>🖥️ Rodrigo Salgado</h1>
+<img src="banner.gif" width="400px" align="right">
+
+``Análise de Dados com ênfase em Power BI``
+
+🧠 Em transição para **Engenheiro de Dados & IA**: Databricks, Python, Big Data .        
+🔇 PcD Auditivo (CID H90.3) | Remoto/Híbrido | Brasília-DF.
+
+---
+[![Skills](https://skillicons.dev/icons?i=python,git,github,figma,vscode,azure,mysql,postgres)](https://skillicons.dev)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B2FBE&size=25&center=true&vCenter=true&width=600&lines=Analista+de+Power+BI)](https://github.com/r9drig-tech)
-
-🧠 Em transição para **Engenheiro de Dados & IA**: Databricks, Python, Big Data         
-🔇 PcD Auditivo (CID H90.3) | Remoto/Híbrido | Brasília-DF
-
----
+## 🚀 Sobre mim
 
 Me chamo Rodrigo Gonçalves Salgado, Brasiliense, Profissional com Deficiência Auditiva com mais de 15 anos de 
 experiência nas áreas administrativa e analítica, especializado em Análise de 
 Dados, Power BI e Gestão de Processos.
 
 ---
-
-## 🛠️ Ferramentas
-
-[![Skills](https://skillicons.dev/icons?i=python,selenium,git,github,figma,vscode,azure,visualstudio)](https://skillicons.dev)
 
 ## 🧑🏽‍💻 Competência Técnicas
 
@@ -27,6 +34,7 @@ Dados, Power BI e Gestão de Processos.
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  ⭐⭐⭐⭐       
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ⭐⭐⭐⭐     
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ⭐⭐⭐⭐     
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) ⭐⭐⭐⭐       
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)   ⭐⭐⭐⭐     
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ⭐⭐     
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)  ⭐⭐       
@@ -78,15 +86,30 @@ Dados, Power BI e Gestão de Processos.
 🎓 Graduado em **Gestão de Processos Gerenciais** (UDF) 
 
 ## 🏅 Certificações   
-**Lakehouse Fundamentals** (Databricks)          
-**Big Data & Analytics** e **Business Intelligence** (FIAP)             
-**Bootcamp Gen IA & Dados** (Bradesco & DIO)   
+📚 **Lakehouse Fundamentals** (Databricks)          
+📊 **Big Data & Analytics** e **Business Intelligence** (FIAP)             
+🤖 **Bootcamp Gen IA & Dados** (Bradesco & DIO)   
 
 ---
 
 ### 📜 Certificado em Destaque
 
-> 🏆 **Formação em Análise de Dados** — Xperiun Educação | 150h | Reconhecida pelo MEC 
+> ⚙️ **Pós-graduação em Engenharia de Dados e IA** — Faculdade Anhanguera | EAD | 360h | Em andamento (prev. 2027)
+
+![Engenharia de Dados na Prática](https://img.shields.io/badge/📚%20Engenharia%20de%20Dados%20na%20Prática-FF6B35?style=for-the-badge)
+![Linguagens de programação para ciência de dados](https://img.shields.io/badge/📚%20Linguagens%20de%20Programação%20para%20Ciência%20de%20Dados-FF6B35?style=for-the-badge)
+![Databricks - Fundamentos e Práticas com Spark e Delta](https://img.shields.io/badge/📚%20Databricks%20–%20Spark%20e%20Delta-FF6B35?style=for-the-badge)
+![Azure - Fundamentos e Práticas em ETL com Fabric](https://img.shields.io/badge/📚%20Azure%20–%20ETL%20com%20Fabric-FF6B35?style=for-the-badge)
+![AWS - Fundamentos e Práticas em ETL com dbt Core](https://img.shields.io/badge/📚%20AWS%20–%20ETL%20com%20dbt%20Core-FF6B35?style=for-the-badge)
+![GCP - Fundamentos e Práticas em ETL com Airflow](https://img.shields.io/badge/📚%20GCP%20–%20ETL%20com%20Airflow-FF6B35?style=for-the-badge)
+![Power BI - Fundamentos e Práticas em Visualização e Relatórios](https://img.shields.io/badge/📚%20Power%20BI%20–%20Visualização%20e%20Relatórios-FF6B35?style=for-the-badge)
+![ML e MLOps - Fundamentos e Práticas](https://img.shields.io/badge/📚%20ML%20e%20MLOps%20–%20Fundamentos%20e%20Práticas-FF6B35?style=for-the-badge)
+![LLMs - Engenharia Avançadas](https://img.shields.io/badge/📚%20LLMs%20–%20Engenharia%20Avançada-FF6B35?style=for-the-badge)
+![Introdução ao NLP](https://img.shields.io/badge/📚%20Introdução%20ao%20NLP-FF6B35?style=for-the-badge)
+![Governança de dados](https://img.shields.io/badge/📚%20Governança%20de%20Dados-FF6B35?style=for-the-badge)
+
+> 🏆 **Formação em Análise de Dados e Bussines Inteligence** — Xperiun Educação | 150h | Reconhecida pelo MEC 
+
 
 ![Power BI Fundamentals](https://img.shields.io/badge/✅%20Power%20BI%20Fundamentals-7B2FBE?style=for-the-badge)
 ![Data Analyst Professional](https://img.shields.io/badge/✅%20Data%20Analyst%20Professional-7B2FBE?style=for-the-badge)
@@ -95,13 +118,8 @@ Dados, Power BI e Gestão de Processos.
 ![AI & Automation Expert](https://img.shields.io/badge/✅%20AI%20%26%20Automation%20Expert-7B2FBE?style=for-the-badge)
 ![Business & Soft Skills Specialist](https://img.shields.io/badge/✅%20Business%20%26%20Soft%20Skills%20Specialist-7B2FBE?style=for-the-badge)
 
-![Formação em Análise de Dados - Xperiun](formacao_analise_dados_xperiun.jpg)
-
-
 
 > 🏆 **Tecnólogo em Processos Gerenciais** — UDF - Universidade Cruzeiro do Sul | 2019
-
-![Diploma de graduação](https://github.com/r9drig-tech/Carreira-Profissional/blob/main/Diploma%20de%20gradua%C3%A7%C3%A3o.png?raw=true)
 
 ![Gestão e Planejamento Estratégico](https://img.shields.io/badge/✅%20Gestão%20%26%20Planejamento%20Estratégico-005A9C?style=for-the-badge)
 ![Processos Financeiros e Contábeis](https://img.shields.io/badge/✅%20Processos%20Financeiros%20%26%20Contábeis-005A9C?style=for-the-badge)
