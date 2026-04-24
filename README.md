@@ -68,7 +68,7 @@
 
 ### 📜 Certificado em Destaque
 
-![Formação em Análise de Dados - Xperiun](./certificados/formacao_analise_dados_xperiun.jpg)
+![Formação em Análise de Dados - Xperiun](formacao_analise_dados_xperiun.jpg.jpg)
 > 🏆 **Formação em Análise de Dados** — Xperiun Educação | 150h | Reconhecida pelo MEC | Certified Data & Analytics Specialist
 
 ---
