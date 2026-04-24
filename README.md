@@ -3,16 +3,14 @@
 
 **``Analista de Power BI``**
 
-🧠 Em transição para **Engenheiro de Dados & IA**: Databricks, Python, Big Data 
+🧠 Em transição para **Engenheiro de Dados & IA**: Databricks, Python, Big Data         
+🔇 PcD Auditivo (CID H90.3) | Remoto/Híbrido | Brasília-DF
 
 ---
 
 Me chamo Rodrigo Gonçalves Salgado, Brasiliense, um profissional com Deficiência Auditiva com mais de 15 anos de 
 experiência nas áreas administrativa e analítica, especializado em Análise de 
 Dados, Power BI e Gestão de Processos.
-
-🔇 Profissional com **Deficiência Auditiva** (CID H90.3) — Comunicação preferencial por texto/WhatsApp.     
-📍 Brasília – DF | Disponível: **Remoto / Híbrido**.
 
 ---
 
@@ -40,11 +38,12 @@ Dados, Power BI e Gestão de Processos.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ⭐⭐⭐⭐     
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)   ⭐⭐⭐⭐     
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ⭐⭐     
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)  ⭐⭐     
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ⭐⭐     
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ⭐⭐      
-
-
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)  ⭐⭐       
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  🔧         
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)🤖
        
 
 | 📊 BI & Visualização | 🐍 Dev & Automação | 🗄️ Dados & Cloud |
@@ -125,10 +124,7 @@ Dados, Power BI e Gestão de Processos.
 
 ## 🌍 Idiomas
 
-![Português](https://img.shields.io/badge/Português-🇧🇷-green)(nativo)     
-![Inglês](https://img.shields.io/badge/Inglês-🇺🇸-blue)(Básico-Intermediário)     
-![Libras](https://img.shields.io/badge/Libras-🤟-orange)(fluente)
-
+🇧🇷 Português (nativo) | 🤟 Libras | 🇺🇸 Inglês (básico)
 
 ---
 
