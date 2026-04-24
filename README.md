@@ -1,7 +1,7 @@
 ## 🖥️ Rodrigo Salgado
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Analista+de+Power+BI)](https://github.com/r9drig-tech)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B2FBE&size=25&center=true&vCenter=true&width=600&lines=Analista+de+Power+BI)](https://github.com/r9drig-tech)
 
 🧠 Em transição para **Engenheiro de Dados & IA**: Databricks, Python, Big Data         
 🔇 PcD Auditivo (CID H90.3) | Remoto/Híbrido | Brasília-DF
