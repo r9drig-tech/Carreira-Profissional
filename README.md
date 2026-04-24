@@ -17,7 +17,6 @@
 🎓 Graduado em **Gestão de Processos Gerenciais** (UDF)  
 🏅 Certificado em **Databricks Lakehouse Fundamentals**, **Big Data & Analytics** e **Business Intelligence** (FIAP)  
 
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -68,8 +67,11 @@
 
 ### 📜 Certificado em Destaque
 
-![Formação em Análise de Dados - Xperiun](formacao_analise_dados_xperiun.jpg.jpg)
 > 🏆 **Formação em Análise de Dados** — Xperiun Educação | 150h | Reconhecida pelo MEC | Certified Data & Analytics Specialist
+
+![Formação em Análise de Dados - Xperiun](formacao_analise_dados_xperiun.jpg.jpg)
+
+> 🏆 **Graduçao ** — Xperiun Educação | 150h | Reconhecida pelo MEC | Certified Data & Analytics Specialist
 
 ---
 
@@ -79,7 +81,6 @@
 ✨ Domínio de **Power BI** com DAX avançado e Power Query  
 ✨ Visão de **UX/UI** aplicada a dashboards — dado bonito e funcional  
 ✨ Transição sólida para **Engenharia de Dados**: Databricks, Python, Big Data  
-✨ Profissional **PcD** — diversidade que agrega perspectiva e resiliência
 
 ---
 
@@ -99,8 +100,6 @@
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r9drig-power-bi/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r9drig-tech)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561984671549)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r9drig@gmail.com)
 
 ---
