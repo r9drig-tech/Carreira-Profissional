@@ -133,14 +133,10 @@ Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r9drig-power-bi/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r9drig@gmail.com)
+<p align="left">
+<a href="https://linkedin.com/in/r9drig-power-bi/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
 
----
-
-⭐ *Transformando dados em decisões estratégicas — um dashboard de cada vez!*
-
-
-
----
-
+--- 
